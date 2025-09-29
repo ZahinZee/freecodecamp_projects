@@ -1,0 +1,34 @@
+** start of index.html **
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>
+    Delicious Recipe
+  </title>
+</head>
+<body>
+  <h1>Pasta Sauce</h1>
+  <p> Hello, let's make pasta sauce for your creamy pasta</p>
+  <h2>Ingredients</h2>
+    <ul>
+      <li>Flour</li>
+      <li>Water</li>
+      <li>Oil</li>
+      <li>Salt</li>
+    </ul>
+  <h2> Instructions</h2>
+    <ol>
+      <li>Pour oil on the pan.</li>
+      <li>Mix a little flour.</li>
+      <li>Sprinkle salt according to your taste.</li>
+      <li>Pour some water.</li>
+    </ol>
+    <img src="https://cdn.freecodecamp.org/curriculum/labs/recipe.jpg" alt="My recipe">
+</body>
+</html>
+
+
+** end of index.html **
+
